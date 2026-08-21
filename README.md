@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=lightgrey&label=☆"/>
+
 *”Alhaitham! Are you ever going to actually work on this?”*
 </p>
 
