@@ -1,16 +1,13 @@
-## Hi there 👋
+*”Alhaitham! Are you ever going to actually work on this?”*
+</p>
 
-<!--
-**4ggravate-web/4ggravate-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*”Well, maybe. When I decide I want to.”*
+</p>
 
-Here are some ideas to get you started:
+*”Calm down, Kaveh. I’m sure Alhaitham has good reason to not finish this yet.”*
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*”I agree with Tighnari. What about a round of Genius Invokation TCG to lighten the mood?”*
+</p>
+
+*”…”*
