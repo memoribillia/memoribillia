@@ -1,7 +1,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=lightgrey&label=☆"/>
+  
 
-*”Alhaitham! Are you ever going to actually work on this?”*
+<img src=https://i.postimg.cc/R0c1jt8f/550665A6-3F7A-4B42-9D0B-7CDB5210EA7F.gif>
+
+*”Alhaitham! When, exactly are you ever planning to actually work on this?”*
 </p>
 
 *”Well, maybe. When I decide I want to.”*
