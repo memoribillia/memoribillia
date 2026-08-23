@@ -4,10 +4,10 @@
 
 <img src=https://i.postimg.cc/R0c1jt8f/550665A6-3F7A-4B42-9D0B-7CDB5210EA7F.gif>
 
-*”Alhaitham! When, exactly are you ever planning to actually work on this?”*
+*”Alhaitham! When, exactly, are you ever planning to actually work on this?”*
 </p>
 
-*”Well, maybe. When I decide I want to.”*
+*”When I decide I want to.”*
 </p>
 
 *”Calm down, Kaveh. I’m sure Alhaitham has good reason to not finish this yet.”*
