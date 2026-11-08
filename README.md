@@ -7,6 +7,6 @@
 
 <div align="center">
 
-[me](https://github.com/veiledscholar) [florens](https://github.com/domedcourt) [navi](https://github.com/Navistel) [ajax](https://github.com/fou11egacy) [tarta](https://github.com/3LEVENTH) [mae](https://github.com/VividOldTale) [raine](https://github.com/calicozzy) [eternity](https://github.com/eternaliity) [haru](https://github.com/WanderersWife)
+  [florens](https://github.com/domedcourt) [navi](https://github.com/Navistel) [ajax](https://github.com/fou11egacy) [tarta](https://github.com/3LEVENTH) [mae](https://github.com/VividOldTale) [raine](https://github.com/calicozzy) [eternity](https://github.com/eternaliity) [haru](https://github.com/WanderersWife)
   
 [atabook](https://veiledscholar.atabook.org)
