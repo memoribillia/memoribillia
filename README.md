@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=5e675c&label=☆"/>
 
   <p align="center">
-  <img src="https://i.postimg.cc/4d04Xskn/IMG-7430.jpg">
+  <img src="https://i.postimg.cc/63F0n4x5/IMG-7434.png">
   </p>
 
 <div align="center">
