@@ -3,6 +3,7 @@
 
   <p align="center">
   <img src="https://i.postimg.cc/63F0n4x5/IMG-7434.png">
+    > `less active on weekdays`
   </p>
 
 <div align="center">
