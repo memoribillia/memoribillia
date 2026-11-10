@@ -2,8 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=5e675c&label=☆"/>
 
   <p align="center">
-  <img src="https://i.postimg.cc/63F0n4x5/IMG-7434.png">
-    > `less active on weekdays`
+  <img src="https://i.postimg.cc/W10yscFX/IMG-4212-removebg-preview.png">
   </p>
 
 <div align="center">
