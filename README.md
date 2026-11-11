@@ -12,7 +12,3 @@
 [atabook](https://veiledscholar.atabook.org)
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31oxbcwo3zvnaryjlq6e3vuvus54&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
-<img src=https://i.postimg.cc/zDbN1DW6/IMG-7460.jpg”>
-
-#railgunwarning | self proclaimed no. 1 awacs dealer fan ok
