@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=red&label=oni"/>
 
+  i follow people im curious about or possibly have the same niche as me ok…? also my tgakslop account 
+
   <p align="center">
   <img src="https://i.postimg.cc/vHhzh8ny/IMG-7445.jpg">
   </p>
