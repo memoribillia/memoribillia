@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=red&label=oni"/>
-
-  i follow people im curious about or possibly have the same niche as me ok…? also my tgakslop account 
+</p>
 
   <p align="center">
   <img src="https://i.postimg.cc/vHhzh8ny/IMG-7445.jpg">
@@ -10,6 +9,8 @@
 <div align="center">
 
   [florens](https://github.com/domedcourt) [navi](https://github.com/Navistel) [jayus](https://github.com/jagayjayus) [ajax](https://github.com/fou11egacy) [tarta](https://github.com/3LEVENTH) [mae](https://github.com/VividOldTale) [raine](https://github.com/calicozzy) [eternity](https://github.com/eternaliity) [haru](https://github.com/WanderersWife)
+  
+  i follow people im curious about or possibly have the same niche as me ok…? also my tgakslop account
   
 [atabook](https://veiledscholar.atabook.org)
 
