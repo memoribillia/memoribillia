@@ -2,6 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=743037&label=tunnels_flown_through_with_a_MiG-29"/>
 </p>
 
+self proclaimed #1 awacs dealer fan
+
   <p align="center">
   <img src="https://i.postimg.cc/vmBXCfq0/IMG-7527.png">
   </p>
