@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=743037&label=planes flown through with a MiG-29"/>
+  <img src="https://komarev.com/ghpvc/?username=4ggravate-web&color=743037&label=tunnels_flown_through_with_a_MiG-29"/>
 </p>
 
   <p align="center">
